@@ -1,4 +1,4 @@
-package kslom.smart4aviation2ver;
+package kslom.smart4aviation2ver.domain;
 
 import org.hibernate.annotations.GenericGenerator;
 

@@ -1,5 +1,8 @@
 package kslom.smart4aviation2ver;
 
+import kslom.smart4aviation2ver.domain.BaggageRepository;
+import kslom.smart4aviation2ver.domain.CargoRepository;
+import kslom.smart4aviation2ver.domain.FlightRepository;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;

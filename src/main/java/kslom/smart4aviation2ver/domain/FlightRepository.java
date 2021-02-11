@@ -1,6 +1,6 @@
-package kslom.smart4aviation2ver;
+package kslom.smart4aviation2ver.domain;
 
-import kslom.smart4aviation2ver.dto.FlightDto;
+import kslom.smart4aviation2ver.domain.dto.FlightDto;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

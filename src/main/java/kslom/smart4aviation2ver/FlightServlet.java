@@ -1,6 +1,9 @@
 package kslom.smart4aviation2ver;
 
 
+import kslom.smart4aviation2ver.domain.BaggageRepository;
+import kslom.smart4aviation2ver.domain.CargoRepository;
+import kslom.smart4aviation2ver.domain.FlightRepository;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

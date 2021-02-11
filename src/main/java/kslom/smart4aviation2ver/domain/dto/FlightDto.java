@@ -1,4 +1,4 @@
-package kslom.smart4aviation2ver.dto;
+package kslom.smart4aviation2ver.domain.dto;
 
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 
